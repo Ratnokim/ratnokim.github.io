@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ratnokim.github.io/about/</loc>
+    <lastmod>2018-04-27T20:22:57+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ratnokim.github.io/post/artikel-baruku/</loc>
     <lastmod>2018-04-26T16:27:59+07:00</lastmod>
   </url>
@@ -20,7 +25,7 @@
   
   <url>
     <loc>https://ratnokim.github.io/</loc>
-    <lastmod>2018-04-26T16:27:59+07:00</lastmod>
+    <lastmod>2018-04-27T20:22:57+07:00</lastmod>
     <priority>0</priority>
   </url>
   
