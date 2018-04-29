@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SuratnoBlog</title>
+    <title>BlogRatno</title>
     <link>https://ratnokim.github.io/</link>
-    <description>Recent content on SuratnoBlog</description>
+    <description>Recent content on BlogRatno</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Fri, 27 Apr 2018 20:22:57 +0700</lastBuildDate>
     
@@ -16,7 +16,7 @@
       <pubDate>Fri, 27 Apr 2018 20:22:57 +0700</pubDate>
       
       <guid>https://ratnokim.github.io/about/</guid>
-      <description></description>
+      <description>Selamat datang di blog saya.</description>
     </item>
     
     <item>
