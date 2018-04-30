@@ -16,7 +16,10 @@
       <pubDate>Mon, 30 Apr 2018 11:23:00 +0700</pubDate>
       
       <guid>https://ratnokim.github.io/post/source-code-aplikasi-warehouse-enggunakan-laravel-5.3/</guid>
-      <description></description>
+      <description>Kali ini saya akan membagikan source code salah satu tugas kuliah saya eak :v. 
+Untuk Fitur Admin Master :  Menambahkan Admin Gudang Dengan Password Acak Merubah Data Admin 
+Untuk Fitur Admin Gudang :  Melihat jumlah stock barang dengan chart.js Menambahkan Type barang Menambahkan Type Sesuai Merk barang Merubah Data barang Update Stock Cetak Laporan Stock barang ke PDF 
+Fitur Tambahan  Reset Password By Email Verifikasi data Admin by Email  Screenshoot Aplikasi</description>
     </item>
     
   </channel>
